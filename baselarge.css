@@ -1,0 +1,40 @@
+@media (min-width: 1200px) {
+
+    header {
+        display: none;
+    }
+
+    main {
+        display: flex;
+        flex-direction: row-reverse;
+    }
+
+    .hero img {
+        width: unset;
+    }
+
+    #largeHeader {
+        display: block;
+        margin-bottom: auto;
+    }
+
+    .text {
+        padding: 2em 13em;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .heading {
+        padding: 0;
+    }
+
+
+    #email {
+        margin: auto 0;
+    }
+
+    #pitch, #largeHeader {
+        margin-top: 2em;
+    }
+}

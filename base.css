@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+}
+
+header {
+    padding: 2em;
+}
+
+header img {
+    width: 30%;
+}
+
+main {
+    background: hsl(0, 100%, 98%);
+}
+
+.hero img {
+    width: 100%;
+}
+
+.text {
+    padding: 1em;
+    text-align: center;
+}
+
+#largeHeader {
+    display: none;
+}
+
+.heading {
+    font-size: 52px;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    padding: 0.5em;
+    color: hsl(0, 36%, 70%);
+}
+
+#soon {
+    color: black;
+}
+
+#pitch {
+    line-height: 1.5em;
+    color: hsl(0, 36%, 70%);
+}
+
+#email {
+    margin-top: 2em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    border:1px solid hsl(0, 36%, 70%);
+    border-radius: 5em;
+    padding-left: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 46px;
+}
+
+#email input {
+    width: 100%;
+    background: transparent;
+    height: 48px;
+    border: none;
+    color: hsl(0, 36%, 70%);
+}
+
+
+.errorMsg {
+    text-align: left;
+    color: red;
+    padding-left: 18px;
+    margin-top: 10px;
+    opacity: 0;
+}
+
+#errorIcon {
+    margin-right: 5px;
+    opacity: 0;
+}
+
+.error {
+  border: 2px solid #F96464;
+}
+
+.errorMessage
+
+.errorMsg {
+    text-align: left;
+    color: hsl(0, 36%, 70%);
+    padding: 1em;
+    margin-left: 3px;
+    opacity: 0;
+}
+
+#go {
+    background: linear-gradient(135deg,hsl(0, 80%, 86%), hsl(0, 74%, 74%));
+    padding: 14px 40px;
+    border-radius: 5em;
+    border: none;
+    transform: translate(6px, 0px);
+}
+
+
+
+
+
+@keyframes error {
+    0% {
+        border:1px solid hsl(0, 36%, 70%);
+    }
+
+    10% {
+        border: 2px solid #F96464 ;
+        
+    }
+
+    90% {
+        border: 2px solid #F96464;
+        
+    }
+
+    100% {
+        border:1px solid hsl(0, 36%, 70%);
+        
+    }
+}
+
+
+@keyframes errorMessage {
+    0% {
+        opacity: 0;
+    }
+
+    10% {
+        opacity: 1;
+    }
+
+    90% {
+        opacity: 1;
+    }
+
+    100% {
+       opacity: 0;
+    }   
+
+}
