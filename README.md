@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/webifyCode/mybaseapparel)
+- Solution URL: [Github repo](https://github.com/webifyCode/mybaseapparel)
 - Live Site URL: [Live site](https://webifyCode.github.io/mybaseapparel)
 
 ### Built with
