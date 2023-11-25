@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/5erious5am/mybaseapparel)
-- Live Site URL: [Live site](https://5erious5am.github.io/mybaseapparel)
+- Solution URL: [Solution URL](https://github.com/webifyCode/mybaseapparel)
+- Live Site URL: [Live site](https://webifyCode.github.io/mybaseapparel)
 
 ### Built with
 
@@ -43,7 +43,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Samuel Akinode](https://www.webifywebservices.com)
+- GitHub - [@webifyCode](https://github.com/webifyCode)
 - Frontend Mentor - [@5erious5am](https://www.frontendmentor.io/profile/5erious5am)
 - Twitter - [@webifycode](https://www.twitter.com/webifycode)
 
